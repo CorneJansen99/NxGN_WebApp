@@ -1,0 +1,17 @@
+﻿body {
+    background-image: url('Yellowbck.jpg');
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('Yellowbck.jpg');
+    background-size: 100%;
+}
+
+.mybutton {
+    background-color: cornflowerblue;
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid #0026ff
+}
+
+    .mybutton:hover {
+        background-color: white;
+        color: blue;
+    }
